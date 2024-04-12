@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-04-12T19:57:17.159242",
+    "startedAt": "2024-04-12T19:57:14.202226",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/AlexandreSelvestre/RL-Assignment.git",
+        "commit": "79f8d28aafb938029860ca1b99bdb1d2338ec674"
+    },
+    "email": "=",
+    "root": "C:/Users/33771/Documents/RL/DM/text-flappy-bird-gym/Assignment",
+    "host": "DESKTOP-VS41QNH",
+    "username": "33771",
+    "executable": "c:\\Users\\33771\\.conda\\envs\\transform\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 932.3261680603027,
+            "used": 722.2291030883789
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.76727294921875
+    }
+}
