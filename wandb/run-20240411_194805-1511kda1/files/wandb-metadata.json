@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-04-11T17:48:08.517520",
+    "startedAt": "2024-04-11T17:48:05.698189",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-bird-gym.git",
+        "commit": "ca2797e9270195313423324c9d0f205f6cbb3d28"
+    },
+    "email": "=",
+    "root": "C:/Users/33771/Documents/RL/DM/text-flappy-bird-gym",
+    "host": "DESKTOP-VS41QNH",
+    "username": "33771",
+    "executable": "c:\\Users\\33771\\.conda\\envs\\transform\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 932.3261680603027,
+            "used": 722.0640907287598
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.76727294921875
+    }
+}
